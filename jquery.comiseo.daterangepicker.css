@@ -24,7 +24,6 @@
 	/* required for IE */
 	background-color: #fff;
 	opacity: 0;
-	filter: alpha(opacity = 0);
 }
 
 .comiseo-daterangepicker-presets,
